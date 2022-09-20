@@ -11,6 +11,7 @@ on:
     - cron: "32 0 * * *"
   workflow_dispatch:
 
+
 jobs:
   job1:
     name: daily report
